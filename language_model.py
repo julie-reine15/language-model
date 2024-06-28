@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-# Bauné Julie 21801708
-# Piter Kenza 21600243
-# Tu Justine 21700810
+# Bauné Julie 
+# Piter Kenza 
+# Tu Justine 
 
 import numpy as np
 
